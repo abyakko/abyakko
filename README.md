@@ -2,22 +2,11 @@
   <img src="assets/banner.svg" alt="Abraham Perez Nina, Desarrollador Web Full Stack" width="100%">
 </p>
 
-<table>
-  <tr>
-    <td width="230" align="center">
-      <img src="assets/avatar.png" alt="Avatar de Abraham con sus dos gatos" width="200">
-    </td>
-    <td>
-
 ### Hola, soy Abraham 👋
 
 Desarrollador Web Full Stack en **La Paz, Bolivia**. Desde 2022 construyo sistemas web a medida para empresas de distintos sectores: del análisis de requerimientos al despliegue y mantenimiento en producción.
 
 Me especializo en **integrar sistemas con servicios externos** (facturación electrónica, pagos, WhatsApp, ERP) y en automatizar procesos que antes se hacían a mano. Mi foco es el código limpio y las soluciones que resuelven problemas reales del negocio.
-
-</td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="https://abraham-dev.vercel.app"><img src="https://img.shields.io/badge/Portafolio-15171a?style=for-the-badge&logo=astro&logoColor=68b1ab" alt="Portafolio"></a>
@@ -78,6 +67,6 @@ Puedes ver más en mi [portafolio](https://abraham-dev.vercel.app).
 
 ¿Buscas un desarrollador para tu equipo o un sistema a medida para tu negocio?
 
-📩 [correo](mailto:abrahampereznina712@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abraham-perez-nina/) · 🌐 [Portafolio](https://abraham-dev.vercel.app) · 🦊 [GitLab](https://gitlab.com/aBaekho)
+📩 [abrahampereznina712@gmail.com](mailto:abrahampereznina712@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abraham-perez-nina/) · 🌐 [Portafolio](https://abraham-dev.vercel.app) · 🦊 [GitLab](https://gitlab.com/aBaekho)
 
 <p align="center"><i>¿No sabes qué necesitas? Conversemos.</i></p>
