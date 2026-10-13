@@ -50,7 +50,6 @@ También trabajo con seguridad (OAuth2/OIDC, JWT, buenas prácticas OWASP), Scru
 
 - Lidero técnicamente: revisión de código, decisiones de arquitectura y guía a desarrolladores junior.
 - Uso IA todos los días (Claude, Copilot, Cursor) para entregar con más rapidez y calidad.
-- Estoy estudiando LLM y RAG para llevarlos a soluciones reales.
 
 ## Mi trabajo
 
