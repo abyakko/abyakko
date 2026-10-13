@@ -61,7 +61,9 @@ Mi trabajo con clientes es confidencial, así que lo resumo por tipo de proyecto
 - Sistemas con monitoreo en tiempo real y notificaciones.
 - Portales de venta de planes con pagos en línea.
 
-Puedes ver más en mi [portafolio](https://abraham-dev.vercel.app).
+Puedes ver más en:
+Mi [portafolio](https://abraham-dev.vercel.app).
+Mi [marca personal](https://abraham-d-s.vercel.app).
 
 ## Contacto
 
